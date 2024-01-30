@@ -1,2 +1,2 @@
 # QR-Generator
- --QR-Generator--
+ --A simple QR Generator--
